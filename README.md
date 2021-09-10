@@ -2,8 +2,9 @@
 
 ##FORWARD SMS 
 
- > Download Fsms.apk from this repository code
-Open apk editor and select apk from files and then open a folder in which you downloaded Fsmsapk and select that app
+> Download Fsms.apk from this repository code
+
+> Open apk editor and select apk from files and then open a folder in which you downloaded Fsmsapk and select that app
 
 > after clicking on the app now select decompile all files
 
