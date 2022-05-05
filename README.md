@@ -17,6 +17,10 @@
 <a href="https://github.com/rdxlr/Forward-SMS"><img title="Watching" src="https://img.shields.io/github/watchers/rdxlr/Forward-SMS?label=Watchers&color=red&style=flat-square"></a>
 </p>
 
+<p align="center">
+<a href="https://github.com/rdxlr"><img title="Licence" src="https://img.shields.io/badge/License-MIT LICENCE-blue.svg"></a>
+</p>
+
 ## Usage:
 > Download Fsms.apk from this repository code
 
