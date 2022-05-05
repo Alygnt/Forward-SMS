@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/RDXLR/Forward-SMS/main/core/pics/Forward-SMS-poster.png">
+<img src="https://raw.githubusercontent.com/RDXLR/Forward-SMS/main/Forward-SMS-poster.png">
 </p>
 
 <p align="center">
