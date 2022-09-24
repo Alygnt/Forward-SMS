@@ -1,24 +1,24 @@
 # FORWARD SMS 
 
 <p align="center">
-<a href="https://github.com/rdxlr"><img title="Github" src="https://img.shields.io/badge/rdxlr-grey?style=for-the-badge&logo=github"></a>
-<a href="https://github.com/rdxlr/Forward-SMS"><img title="Github" src="https://img.shields.io/badge/Forward-SMS-green?style=for-the-badge"></a>
+<a href="https://github.com/Alygnt"><img title="Github" src="https://img.shields.io/badge/rdxlr-grey?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Alygnt/Forward-SMS"><img title="Github" src="https://img.shields.io/badge/Forward-SMS-green?style=for-the-badge"></a>
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/RDXLR/Forward-SMS/main/Forward-SMS-poster.png">
+<img src="https://raw.githubusercontent.com/Alygnt/Forward-SMS/main/Forward-SMS-poster.png">
 </p>
 
 <p align="center">
-<a href="https://github.com/rdxlr"><img title="Followers" src="https://img.shields.io/github/followers/rdxlr?color=blue&style=flat-square"></a>
-<a href="https://github.com/rdxlr/Forward-SMS"><img title="Stars" src="https://img.shields.io/github/stars/rdxlr/Forward-SMS?color=red&style=flat-square"></a>
-<a href="https://github.com/rdxlr/Forward-SMS"><img title="Forks" src="https://img.shields.io/github/forks/rdxlr/Forward-SMS?color=red&style=flat-square"></a>
-<a href="https://github.com/rdxlr/Forward-SMS"><img title="Issues" src="https://img.shields.io/github/issues/rdxlr/Forward-SMS?color=red&style=flat-square"></a>
-<a href="https://github.com/rdxlr/Forward-SMS"><img title="Watching" src="https://img.shields.io/github/watchers/rdxlr/Forward-SMS?label=Watchers&color=red&style=flat-square"></a>
+<a href="https://github.com/Alygnt"><img title="Followers" src="https://img.shields.io/github/followers/Alygnt?color=blue&style=flat-square"></a>
+<a href="https://github.com/Alygnt/Forward-SMS"><img title="Stars" src="https://img.shields.io/github/stars/Alygnt/Forward-SMS?color=red&style=flat-square"></a>
+<a href="https://github.com/Alygnt/Forward-SMS"><img title="Forks" src="https://img.shields.io/github/forks/Alygnt/Forward-SMS?color=red&style=flat-square"></a>
+<a href="https://github.com/Alygnt/Forward-SMS"><img title="Issues" src="https://img.shields.io/github/issues/Alygnt/Forward-SMS?color=red&style=flat-square"></a>
+<a href="https://github.com/Alygnt/Forward-SMS"><img title="Watching" src="https://img.shields.io/github/watchers/Alygnt/Forward-SMS?label=Watchers&color=red&style=flat-square"></a>
 </p>
 
 <p align="center">
-<a href="https://github.com/rdxlr"><img title="Licence" src="https://img.shields.io/badge/License-MIT LICENCE-blue.svg"></a>
+<a href="https://github.com/Alygnt"><img title="Licence" src="https://img.shields.io/badge/License-MIT LICENCE-blue.svg"></a>
 </p>
 
 ## Usage:
