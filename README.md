@@ -1,12 +1,12 @@
 # FORWARD SMS 
 
 <p align="center">
-<a href="https://github.com/Alygnt"><img title="Github" src="https://img.shields.io/badge/rdxlr-grey?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Alygnt"><img title="Github" src="https://img.shields.io/badge/alygnt-grey?style=for-the-badge&logo=github"></a>
 <a href="https://github.com/Alygnt/Forward-SMS"><img title="Github" src="https://img.shields.io/badge/Forward-SMS-green?style=for-the-badge"></a>
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Alygnt/Forward-SMS/main/Forward-SMS-poster.png">
+<img src="https://raw.githubusercontent.com/Alygnt/archive/forward-sms/Forward-SMS-poster.png">
 </p>
 
 <p align="center">
